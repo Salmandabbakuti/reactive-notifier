@@ -68,6 +68,8 @@ emit ReactiveNotification(
 }
 ```
 
+You can find the complete example of the smart contract [here](GreeterNotifier.sol).
+
 ### 2. Event Subscription:
 
 Users subscribe to the `ReactiveNotification` event on their preferred chain and smartcontract they are interested in.
@@ -159,4 +161,4 @@ This is a proof of concept and is not ready for production use. It is not audite
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
